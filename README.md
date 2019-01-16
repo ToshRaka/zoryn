@@ -9,13 +9,13 @@ L'index vous redirigera vers diverses parties de l'univers :
   * [Le Consortium](Histoire/Consortium.md)
   * [Fellir](Histoire/Fellir.md)
 * Races
-  * [Ashmen](Races/Ashmen.md)
-  * [Astrées](Races/Astree.md)
-  * [Humains](Races/Humain.md)
-  * [Lennonikans](Races/Lennonikan.md)
-  * [Octocides](Races/Octocide.md)
-  * [Omtaup](Races/Omtaup.md)
-  * [Ossen](Races/Ossen.md)
+  * [Ashmen](Races/Ashmen/Ashmen.md)
+  * [Astrées](Races/Astree/Astree.md)
+  * [Humains](Races/Humain/Humain.md)
+  * [Lennonikans](Races/Lennonikan/Lennonikan.md)
+  * [Octocides](Races/Octocide/Octocide.md)
+  * [Omtaup](Races/Omtaup/Omtaup.md)
+  * [Ossen](Races/Ossen/Ossen.md)
 * [Religion](Pantheon/Pantheon.md)
 
 
