@@ -17,6 +17,10 @@ L'index vous redirigera vers diverses parties de l'univers :
   * [Omtaup](Races/Omtaup/Omtaup.md)
   * [Ossen](Races/Ossen/Ossen.md)
 * [Religion](Pantheon/Pantheon.md)
+* [Géographie](Geographie.md)
+* Biologie
+  * [Faune](Biologie/Faune.md)
+  * [Flore](Biologie/Flore.md)
 
 
 Si vous voulez contribuer à étendre l'univers, ses nations, sa cosmogonie ou tout autre, n'hésitez pas à poster une issue ou pull request sur [github](https://github.com/ToshRaka/zoryn) !
