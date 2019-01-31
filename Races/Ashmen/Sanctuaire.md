@@ -4,7 +4,7 @@ Le Sanctuaire est l'organisation qui régit tous les sanctuaires [Ashmen](Ashmen
 
 ## Hôpital
 
-Les sanctuaires sont avant tout les descendants du Sanctuaire principal originellement créé à Xenor. Celui-ci faisait et fait toujours office d'hôpital pour traiter les habitants de la cité-état. Avec l'expansion des Ashmen et leur dissémination à travers Zoryn, de nombreux centres hospitaliers ont été créés dans les nouveaux Dômes. Bien que spécialisés dans la médecine Ashmen depuis leurs débuts, les Sanctuaires s'ouvrent aux soins d'autres races vers le septième siècle, direct résultat des actions du [Royaume de Fellir](../Histoire/Fellir.md) pour intégrer les populations Ashmen dans le royaume.
+Les sanctuaires sont avant tout les descendants du Sanctuaire principal originellement créé à Xenor. Celui-ci faisait et fait toujours office d'hôpital pour traiter les habitants de la cité-état. Avec l'expansion des Ashmen et leur dissémination à travers Zoryn, de nombreux centres hospitaliers ont été créés dans les nouveaux Dômes. Bien que spécialisés dans la médecine Ashmen depuis leurs débuts, les Sanctuaires s'ouvrent aux soins d'autres races vers le septième siècle, direct résultat des actions du [Royaume de Fellir](../../Histoire/Fellir.md) pour intégrer les populations Ashmen dans le royaume.
 
 ## Morgue
 
