@@ -16,21 +16,21 @@ La plupart des communautés vit en autarcie et n’est pas habituée à voyager,
 
 ## Religion
 
-Ils n’ont pas de réelle religion car ils n’ont pas d’unité politique. Cependant chaque communauté à ses propres croyances, attribuant des pouvoirs aux astres qui composent leur ciel. Les Astrées y vouent un intérêt dans la vie quotidienne : pour la prise de décisions importantes, les mariages, la légitimité du pouvoir de chaque communauté… Une exception en ce qui concerne les groupes de communautés importantes situées sur les chaînes de montagnes majeures, les astres du Soleil et de la Lune sont associés à Borr et Jorna, les précurseurs de la race Astrée. La course infinie du Soleil vers la Lune représente la quête des faveurs de Jorna. C’est un modèle de motivations pour les populations de cette croyance. L’union de Borr et Jorna annonce la réunion du Soleil et de la Lune, qui devrait faire entrer le peuple Astréen dans une seconde ère.
+Ils n’ont pas de réelle religion car ils n’ont pas d’unité politique. Cependant chaque communauté à ses propres croyances, attribuant des pouvoirs aux astres qui composent leur ciel. Les Astrées y vouent un intérêt dans la vie quotidienne : pour la prise de décisions importantes, les mariages, la légitimité du pouvoir de chaque communauté… Une exception en ce qui concerne les groupes de communautés importantes situées sur les chaînes de montagnes majeures, les astres du Soleil et de la Lune sont associés à [Borr](../../Pantheon/Phoenix.md#borr-phoenix-du-feu) et [Jorna](../../Pantheon/Compagnons.md#jorna-compagne-de-borr), les précurseurs de la race Astrée. La course infinie du Soleil vers la Lune représente la quête des faveurs de Jorna. C’est un modèle de motivations pour les populations de cette croyance. L’union de Borr et Jorna annonce la réunion du Soleil et de la Lune, qui devrait faire entrer le peuple Astréen dans une seconde ère.
 
 ## Nations avant l'Été Immortel
 
 ### République de Kamisse Orientale
 
-La République a été créée immédiatement après la fondation de Taryima par les colons de Clairio et des immigrants des Colonnes en l’an 147 p.o. Techniquement sous l’égide de Clairio, la République a opté pour un gouvernement très décentralisé, donnant beaucoup d’autonomie à chaque cité. Elle offre cependant de nombreux avantages en terme de diplomatie avec les autres pays et aide à l’établissement de nouvelles routes commerciales avec ces derniers.
+La République a été créée immédiatement après la fondation de Taryima par les colons de Clairio et des immigrants des Colonnes en l’an 147 po. Techniquement sous l’égide de Clairio, la République a opté pour un gouvernement très décentralisé, donnant beaucoup d’autonomie à chaque cité. Elle offre cependant de nombreux avantages en terme de diplomatie avec les autres pays et aide à l’établissement de nouvelles routes commerciales avec ces derniers.
 
 #### Clairio
 
-Capitale de la République de Kamisse Orientale, Clairio est l’une des premières cités Astrées fondées en dehors des Colonnes Ardentes. Les exilés et expatriés des multiples montagnes des Colonnes Ardentes se sont retrouvés lors d’une immigration massive vers le Sud et la cité fût créée. Le premier gouvernement de cet agrégat date de l’an 117 p.o. La ville bénéficie d’une position privilégiée sur le Langue Nordique, fleuve majeur, et à la lisière de la forêt de Kamisse. 
+Capitale de la République de Kamisse Orientale, Clairio est l’une des premières cités Astrées fondées en dehors des Colonnes Ardentes. Les exilés et expatriés des multiples montagnes des Colonnes Ardentes se sont retrouvés lors d’une immigration massive vers le Sud et la cité fût créée. Le premier gouvernement de cet agrégat date de l’an 117 po. La ville bénéficie d’une position privilégiée sur le Langue Nordique, fleuve majeur, et à la lisière de la forêt de Kamisse. 
 
 #### Taryima
 
-Taryima est la première colonie de la république initialement fondée par une vague d’immigration en 147 p.o. L’initiative a été organisée par la cité-état de Clairio dans le but d’exploiter les ressources minières du Cercle-Tempête et le bois de roche dans la partie Est de la Kamisse. Il s’en est ensuivi 5 vagues d’immigration successives avant la destruction de la ville en août 152 par l’armée de Kemett, fondateur de la Fédération de l’Arbre Mort.
+Taryima est la première colonie de la république initialement fondée par une vague d’immigration en 147 po. L’initiative a été organisée par la cité-état de Clairio dans le but d’exploiter les ressources minières du Cercle-Tempête et le bois de roche dans la partie Est de la Kamisse. Il s’en est ensuivi 5 vagues d’immigration successives avant la destruction de la ville en août 152 po. par l’armée de Kemett, fondateur de la Fédération de l’Arbre Mort lors du fameux [Été Immortel](../../Histoire/EteImmortel.md).
 
 ### Royaume de Luneraz
 
@@ -50,7 +50,7 @@ La Théocratie règne sur une large chaîne de montagnes du Nord des Colonnes. S
 
 #### Panothera
 
-La capitale de la Théocratie, Panothera, se situe dans les hauteurs du plus grand pic des Colonnes Ardentes. Le Nid de Panos culmine à près 11000 mètres et surplombe les nuages. Au sommet se trouve l’autel de la panthère, pièce toujours fermée, dont seul l’Archevêque à la clef. Les étages suivants sont accordés aux prêtres de haut rang, puis aux prêtres et moines de l’Église, viennent ensuite les apprentis et enfin les gens du commun. Les étrangers sont vus avec dédain (moins si ils se sont convertis) et occupent donc la strate la plus basse. Cette organisation est répétée à travers les différents pics de la chaîne de montagne.
+La capitale de la Théocratie, Panothera, se situe dans les hauteurs du plus grand pic des Colonnes Ardentes. Le Nid de Panos culmine à près 11 000 mètres et surplombe les nuages. Au sommet se trouve l’autel de la panthère, pièce toujours fermée, dont seul l’Archevêque à la clef. Les étages suivants sont accordés aux prêtres de haut rang, puis aux prêtres et moines de l’Église, viennent ensuite les apprentis et enfin les gens du commun. Les étrangers sont vus avec dédain (moins si ils se sont convertis) et occupent donc la strate la plus basse. Cette organisation est répétée à travers les différents pics de la chaîne de montagne.
 
 ### Clan de Furaluuna
 
