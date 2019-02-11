@@ -1,8 +1,10 @@
 # L’Été Immortel
 
-*narré par l’historien Norvald Gappa*
+*par Norvald Gappa, Historien de Xenor*
 
 > 151 - 155 po.
+
+![Carte de Zoryn à l'aube de l'Été Immortel](MapZoryn.png)
 
 ## Le Clan de l’Arbre Mort
 
