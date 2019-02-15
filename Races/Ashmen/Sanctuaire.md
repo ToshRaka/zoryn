@@ -18,9 +18,7 @@ découle de sa charge hospitalière
 recherche médicale et autres
 -->
 
-## 
+## Le Tradescantium
 
-<!--
-Anti nécromancie et immortalité
--->
+Bien que l'organisation ne soit pas formellement reconnue, il est de notoriété publique que le Sanctuaire de Xenor est également le siège du Tradescantium. Les Tradescantia, agents du Tradescantium sont chargés de maintenir la mortalité de la race Ashmen et de celle des races conscientes de Zoryn. Ils font ainsi la chasse aux nécromants et aux immortels. Comme il s'avère parfois difficile d'éliminer ce genre d'individus, ils sont souvent cassés psychologiquement par les Tradescantia puis intégrés dans les rangs de ces derniers. Malgré leur nombre restreint, ils sont très efficaces dans leur tâche de traque.
 
