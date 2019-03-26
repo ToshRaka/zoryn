@@ -14,9 +14,9 @@ Ainsi naquit Gloria, personne ne sait d’où ces quatre personnages venaient, n
 
 ## Les Célestes
 
-Parfois nommé le Culte des Envoyés du Soleil, les Célestes sont la guilde la plus étonnante de Fellir. Vouant un culte absolu au Soleil, ses membres croient en la toute puissance céleste et en la malveillance de la Lune. Leurs origines sont nébuleuses, mais les premiers écrits sérieux sont ceux de celui qu’ils appellent le Prophète. “La Voie des Cieux”, datée de l’année 783 po., résume la croyance des Célestes. Le Prophète est central de la religion et semble être intemporel. Très peu sont ceux qui l’ont rencontré en personne, même parmi les Célestes.
+Parfois nommé le Culte des Envoyés du Soleil, les Célestes sont la guilde la plus étonnante de Fellir. Vouant un culte absolu au Soleil, ses membres croient en la toute puissance céleste et en la malveillance de la Lune. Leurs origines sont nébuleuses, mais les premiers écrits sérieux sont ceux de celui qu’ils appellent le Prophète. “La Voie des Cieux”, datée de l’année 783 po., résume la croyance des Célestes. Le Prophète est centrale dans leur religion et semble être intemporel. Très peu l'ont rencontré en personne, même parmi les Célestes.
 
-Les Célestes ne recrutent ni chez les Astrées (qu’ils considèrent comme des hérétiques) ni chez les Lennonikans (qui ont des croyances radicalement opposées). Une fois leur rite initiatique terminé avec succès, les acolytes peuvent prétendre au diadème (un diadème avec un sigile en forme de soleil) et à la bure bleutée cérémoniels. 
+Les Célestes ne recrutent ni chez les Astrées (qu’ils considèrent comme des hérétiques) ni chez les Lennonikans (qui ont des croyances radicalement opposées). Une fois leur rite initiatique terminé avec succès, les acolytes peuvent prétendre aux atours cérémoniels : le diadème (un diadème avec un sigile en forme de soleil) et la bure bleutée. 
 
 ## Le Lac Rouge
 
