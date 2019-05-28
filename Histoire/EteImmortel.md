@@ -4,7 +4,7 @@
 
 > 151 - 155 po.
 
-![Carte de Zoryn à l'aube de l'Été Immortel](MapZoryn.png)
+![Carte de Zoryn à l'aube de l'Été Immortel](Zoryn152.png)
 
 ## Le Clan de l’Arbre Mort
 

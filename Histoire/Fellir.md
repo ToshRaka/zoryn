@@ -2,6 +2,8 @@
 
 > 581 - 1000? po.
 
+![Carte de Zoryn au début de l'an 1000 po.](Zoryn1000.png)
+
 ## La Royauté
 
 Après plusieurs mois d’anarchie, une nouvelle famille décida de créer un nouveau royaume centrée sur Magnus, un bourg modeste à l’intersection du Langue Oriental et du Langue Nordique. Ce semblant de civilisation rassembla les diverses factions éclatées après la chute du Consortium sous la bannière de Fellir (Fellir, initiales du nom “unité” dans chacune des langues des six races majeures de Zoryn).
