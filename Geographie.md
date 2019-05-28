@@ -1,5 +1,7 @@
 # Géographie
 
+![Carte de Zoryn en l'an 1000 po.](Histoire/Zoryn1000.png)
+
 ## Les Colonnes Ardentes
 
 Les Colonnes Ardentes est le nom de la chaîne de montagnes élevées par le Phoenix [Borr](../../Pantheon/Phoenix.md#borr-phoenix-du-feu) lors de sa sortie de l'Oeuf. Malgré leur nom flamboyant, ces montagnes ne sont pas volcaniques. Le Nid de Panos est le point culminant de Zoryn, à près de 11 500 mètres de haut. De nombreux autres pics aux proportions titanesques composent les Colonnes, comme Luneraz (8 600 mètres) ou encore Zefril (9 200 mètres). 
