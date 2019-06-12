@@ -17,4 +17,13 @@ Le Lanté est batracien d’une trentaine de centimètres, possédant 4 yeux (2 
 ## Perrine
 
 Les Perrines sont une race d’insectes de la taille d’une pomme et responsable de la reproduction des Uhtino en assurant la dissémination. Elles ressemblent à un croisement entre une abeille et une mante-religieuse à 4 ailes.
-	
+
+## Mezaro
+
+Les Mezaros sont des lézards géants habitant les galeries sous le Cercle-Tempête. Bien que leur domptage soit difficile du fait de leur tempérament fougueux, ils sont très prisés comme montures par les forces Humaines. Leur agilité et leur coussinets adhésifs permettent aux Mezaros de facilement se mouvoir sur les murs et même les plafonds des galeries qui sont leur environnement naturel.
+
+## Démouflon
+
+Cousins des mouflons que l’on peut trouver dans les Monts Tranquilles, les Démouflons sont cependant plus grands au garrot et surtout d’une musculature beaucoup plus impressionnante. Habitués à la vie dans les Colonnes et aux hautes altitudes, ce sont des montures de choix pour les armées Astrées des royaumes centraux. Leur pelage et leur cuir d’une résistance incomparable les rendent pratiquement insensibles aux attaques d’archers, amplifiant l’impact des charges de cavaleries.
+
+
