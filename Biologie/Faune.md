@@ -26,4 +26,8 @@ Les Mezaros sont des lézards géants habitant les galeries sous le Cercle-Temp�
 
 Cousins des mouflons que l’on peut trouver dans les Monts Tranquilles, les Démouflons sont cependant plus grands au garrot et surtout d’une musculature beaucoup plus impressionnante. Habitués à la vie dans les Colonnes et aux hautes altitudes, ce sont des montures de choix pour les armées Astrées des royaumes centraux. Leur pelage et leur cuir d’une résistance incomparable les rendent pratiquement insensibles aux attaques d’archers, amplifiant l’impact des charges de cavaleries.
 
+## Lokme
+
+Les Lokme sont des herbivores ruminants vivant dans le Demi-Monde. Les individus dépassent rarement le mètre et sont très prisés comme source de nourriture. Ils se reproduisent vite et sont dociles, en faisant l'élevage préféré des Humains. Leurs écailles sont souples et douces au toucher. Leurs deux petites cornes sont souvent utilisés par les orfèvres pour la sculpture de bijoux. 
+
 
