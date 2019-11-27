@@ -2,7 +2,7 @@
 
 ## Les cavernes
 
-Le Demi-Monde est le nom donné par les Humains à un ensemble de cavernes et tunnels sous les [Plaines de Venian](Humain.md#habitat--les-plaines-de-venian). Selon la légende, le Demi-Monde aurait été découvert par Kemett en l'an 155 po., vers la fin du conflit entre la Fédération de l'Arbre Mort et la coalition des gouvernements Astrées, Octocides et Omtaups. Cependant, certaines investigations archéologiques des cavernes laissent à penser qu'une forme de vie sentiente existait avant sa découverte par Kemett.
+Le Demi-Monde est le nom donné par les Humains à un ensemble de cavernes et tunnels sous les [Plaines de Venian](Humain.md#habitat--les-plaines-de-venian). Selon la légende, le Demi-Monde aurait été découvert par [Kemett](../../Histoire/EteImmortel.md#la-fédération-de-larbre-mort) en l'an 155 po., vers la fin du conflit entre la Fédération de l'Arbre Mort et la coalition des gouvernements Astrées, Octocides et Omtaups. Cependant, certaines investigations archéologiques des cavernes laissent à penser qu'une forme de vie sentiente existait avant sa découverte par Kemett.
 
 Les cavernes en elles-même sont situées plusieurs centaines de mètres sous la surface des plaines. Les titanesques cavités mesurent plusieurs kilomètres de large et centaines de mètres de haut. Elles sont reliées entre elles par des tunnels naturels ainsi que certaines galeries aménagées par les Humains. Il existe également des grands lacs souterrains et la température reste constante toute l’année à une vingtaine de degrés.
 
